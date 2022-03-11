@@ -1,0 +1,9 @@
+{
+    "waitForAnimations": false,
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 10000,
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "baseUrl": "https://www.maax.com/"
+
+}

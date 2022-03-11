@@ -1,0 +1,38 @@
+{
+    "optionItem1": {
+        "en": "Where To Buy",
+        "fr-CA": "Où acheter"
+    },
+    "optionItem2": {
+        "en": "Wish List",
+        "fr-CA": "Favoris"
+    },
+    "optionItem3": {
+        "en": "Partner Portal",
+        "fr-CA": "Portail Partenaire"
+    },    
+    "optionItem4": {
+        "en": "Contact Us",
+        "fr-CA": "Nous Joindr"
+    },
+    "menuItem1": {
+        "en": "Products",
+        "fr-CA": "Produits"
+    },
+    "menuItem2": {
+        "en": "Pro's Corner",
+        "fr-CA": "Coin des pros"
+    },
+    "menuItem3": {
+        "en": "Ideas and Planning",
+        "fr-CA": "Idées et planification"
+    },    
+    "menuItem4": {
+        "en": "Replacement Parts",
+        "fr-CA": "Pièces de rechange"
+    },
+    "searchField": {
+        "en": "Search...",
+        "fr-CA": "Rechercher..."
+    }
+}
